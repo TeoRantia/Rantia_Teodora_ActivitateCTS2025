@@ -6,7 +6,7 @@ import ro.cts.clase.AutoritateReglementareMasiniLazy;
 //se creeaza si instanta. Daca noi nu apelam getInstance, aceasta nu e extrasa, dar ea exista, ceea ce e o prob
 //Solutia e lazy initialization
 
-//la lucrare NU o sa se specifice clar daca avem nevoie de Eager, Lazy sau Multi-thread initialization
+//La lucrare NU o sa se specifice clar daca avem nevoie de Eager, Lazy sau Multi-thread initialization
 
 public class Main {
     public static void main(String[] args) {
