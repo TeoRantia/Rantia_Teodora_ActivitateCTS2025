@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 9 - recuperare/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar 9 - recuperare/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rantia_Teodora_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Rantia_Teodora_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 9 - recuperare/Seminar 9 - recuperare.iml" filepath="$PROJECT_DIR$/Seminar 9 - recuperare/Seminar 9 - recuperare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
