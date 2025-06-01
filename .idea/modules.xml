@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterClase/AdapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/AdaptorObiecte/AdaptorObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdaptorObiecte/AdaptorObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar10/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Seminar10/Flyweight/Flyweight.iml" />
@@ -11,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar 9 - recuperare/Seminar 9 - recuperare.iml" filepath="$PROJECT_DIR$/Seminar 9 - recuperare/Seminar 9 - recuperare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11 - ChainOfResponsability/Seminar11 - ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar11 - ChainOfResponsability/Seminar11 - ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar13 - JUnit/Seminar13 - JUnit.iml" filepath="$PROJECT_DIR$/Seminar13 - JUnit/Seminar13 - JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
