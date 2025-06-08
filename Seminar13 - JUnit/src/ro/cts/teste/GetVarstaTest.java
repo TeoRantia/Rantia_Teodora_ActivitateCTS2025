@@ -1,5 +1,9 @@
 package ro.cts.teste;
 
+import org.junit.experimental.categories.Category;
+import ro.cts.categorii.CategorieBoundary;
+import ro.cts.categorii.CategorieRight;
+import ro.cts.clase.IPersoana;
 import ro.cts.clase.Persoana;
 import ro.cts.exceptii.ExceptieCnpInexistent;
 import ro.cts.exceptii.ExceptieCnpInvalid;
@@ -90,6 +94,23 @@ public class GetVarstaTest {
     public void getVarstaCardinalit2() {
         persoana = new Persoana("Andrei", "5240301484692");
         assertEquals(1, persoana.getVarsta());
+    }
+
+
+
+
+    @org.junit.Test
+    @Category(CategorieRight.class)
+    public void getVarstaRight3() {
+        IPersoana persoana = new Persoana("Kristian", "1980213517002");
+        assertEquals(27, persoana.getVarsta());
+    }
+
+    @org.junit.Test
+    @Category({CategorieBoundary.class, CategorieRight.class})
+    public void getVarstaBoundary3() {
+        IPersoana persoana = new Persoana("Kristian", "5000101235009");
+        assertEquals(25, persoana.getVarsta());
     }
 
 }

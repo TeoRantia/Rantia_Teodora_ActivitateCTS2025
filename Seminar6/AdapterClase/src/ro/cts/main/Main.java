@@ -1,9 +1,9 @@
-package ro.cts.AdaptorClase.main;
+package ro.cts.main;
 
-import ro.cts.AdaptorClase.clase.AdaptorClaseMedicament;
-import ro.cts.AdaptorClase.clase.Farmacie;
-import ro.cts.AdaptorClase.clase.MedicamentFarmacie;
-import ro.cts.AdaptorClase.clase.MedicamentSpital;
+import ro.cts.clase.AdaptorClaseMedicament;
+import ro.cts.clase.Farmacie;
+import ro.cts.clase.MedicamentFarmacie;
+import ro.cts.clase.MedicamentSpital;
 
 public class Main {
     public static void main(String[] args) {

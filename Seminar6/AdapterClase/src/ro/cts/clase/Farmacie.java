@@ -1,4 +1,4 @@
-package ro.cts.AdaptorClase.clase;
+package ro.cts.clase;
 
 
 public class Farmacie {
